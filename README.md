@@ -1,3 +1,3 @@
 # Energiebuch
-Unveröffentliches Buch zur Energiewende
-Nicht editiert
+Unveröffentliches Buch zur Energiewende.
+Nicht editiert.
